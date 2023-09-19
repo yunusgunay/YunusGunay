@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at Bilkent University.
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me: ynsgunayy@gmail.com
-- 😄 Pronouns: he/him
