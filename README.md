@@ -1,4 +1,4 @@
-### My name is Yunus Günay and I am studying Computer Science at Bilkent University. 👋
+### I'm Yunus, and studying Computer Science at Bilkent University. 👋
 
 <!--
 **YunusGunay/YunusGunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
